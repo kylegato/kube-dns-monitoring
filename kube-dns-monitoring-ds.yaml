@@ -18,7 +18,7 @@ spec:
           valueFrom:
             fieldRef:
               fieldPath: spec.nodeName
-        image: kylegato/kube-dns-monitoring:latest
+        image: quay.io/kylegato/kube-dns-monitoring:latest
         imagePullPolicy: Always
         name: kube-dns-monitoring
         resources:
