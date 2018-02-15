@@ -1,4 +1,5 @@
 # kube-dns-monitoring
+[![Docker Repository on Quay](https://quay.io/repository/kylegato/kube-dns-monitoring/status "Docker Repository on Quay")](https://quay.io/repository/kylegato/kube-dns-monitoring)
 Basic docker image that runs an host lookup against the kube-dns service running in the kube-system namespace every 30 seconds to ensure DNS is functioning correctly, otherwise outputs an error to stdout.
 
 
