@@ -26,3 +26,4 @@ DNS Not Okay:
 ```
 1518716173 - Thu Feb 15 17:36:13 UTC 2018 - ERROR: DNS Lookup for kube-dns.kube-system.svc.cluster.local failed.
 ```
+
