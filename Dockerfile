@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:latest
 MAINTAINER Kyle Gato <kyle.gato@gmail.com>
 
 ADD monitor.sh /monitor.sh
